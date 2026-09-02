@@ -1,0 +1,36 @@
+name: Update USPU Schedule
+
+on:
+  schedule:
+    - cron: '0 1,4,7,10,13,16 * * *'
+  workflow_dispatch:
+
+jobs:
+  update-schedule:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          pip install beautifulsoup4
+
+      - name: Fetch schedule and generate .ics files
+        run: |
+          python update_calendar.py
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add *.ics
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-update schedule [skip ci]" && git push)
