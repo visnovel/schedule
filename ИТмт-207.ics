@@ -1,0 +1,839 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//USPU GitHub Calendar Feed//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:УрГПУ ИТмт-207
+X-WR-TIMEZONE:Asia/Yekaterinburg
+REFRESH-INTERVAL;VALUE=DURATION:PT15M
+X-PUBLISHED-TTL:PT15M
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:20260902-1015-Информационнаябезопасность-all@uspu
+DTSTAMP:20260902T155540Z
+DTSTART;TZID=Asia/Yekaterinburg:20260902T101500
+DTEND;TZID=Asia/Yekaterinburg:20260902T114500
+SUMMARY:Информационная безопасность (Лекции)
+DESCRIPTION:Преподаватель: Ченушкина Светлана Владимировна\nАудитория: Учебная аудитория 0-414 УК М11\nГруппа: ИТмт-207
+LOCATION:Учебная аудитория 0-414 УК М11
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20260902-1200-Информационнаябезопасность-подгруппа 2@uspu
+DTSTAMP:20260902T155540Z
+DTSTART;TZID=Asia/Yekaterinburg:20260902T120000
+DTEND;TZID=Asia/Yekaterinburg:20260902T133000
+SUMMARY:Информационная безопасность (Лаб.зан-я) [подгруппа 2]
+DESCRIPTION:Преподаватель: Ростовцева Тамара Михайловна\nАудитория: Учебная аудитория сетевых технологий "D-Link - Компьютерный класс" (0-214) УК М11\nГруппа: ИТмт-207
+LOCATION:Учебная аудитория сетевых технологий "D-Link - Компьютерный класс" (0-214) УК М11
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20260902-1200-Информационнаябезопасность-подгруппа 1@uspu
+DTSTAMP:20260902T155540Z
+DTSTART;TZID=Asia/Yekaterinburg:20260902T120000
+DTEND;TZID=Asia/Yekaterinburg:20260902T133000
+SUMMARY:Информационная безопасность (Лаб.зан-я) [подгруппа 1]
+DESCRIPTION:Преподаватель: Ченушкина Светлана Владимировна\nАудитория: Учебная аудитория сетевых технологий "D-Link - Компьютерный класс" (0-214) УК М11\nГруппа: ИТмт-207
+LOCATION:Учебная аудитория сетевых технологий "D-Link - Компьютерный класс" (0-214) УК М11
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20260902-1415-Историянаукиитехники-подгруппа 2@uspu
+DTSTAMP:20260902T155540Z
+DTSTART;TZID=Asia/Yekaterinburg:20260902T141500
+DTEND;TZID=Asia/Yekaterinburg:20260902T154500
+SUMMARY:История науки и техники (Лаб.зан-я) [подгруппа 2]
+DESCRIPTION:Преподаватель: Захаровский Леонид Владимирович\nАудитория: Автоматизированный учебный центр (0-114) УК М11\nГруппа: ИТмт-207
+LOCATION:Автоматизированный учебный центр (0-114) УК М11
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20260903-0830-3Dмоделированиевмедиаиндустрии-подгруппа 2@uspu
+DTSTAMP:20260902T155540Z
+DTSTART;TZID=Asia/Yekaterinburg:20260903T083000
+DTEND;TZID=Asia/Yekaterinburg:20260903T100000
+SUMMARY:3D-моделирование в медиаиндустрии (Лаб.зан-я) [подгруппа 2]
+DESCRIPTION:Преподаватель: Котова Ирина Анатольевна\nАудитория: Лаборатория "VR/AR" (0-104) УК М11\nГруппа: ИТмт-207
+LOCATION:Лаборатория "VR/AR" (0-104) УК М11
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20260903-1015-Компьютерныекоммуникацииисети-подгруппа 2@uspu
+DTSTAMP:20260902T155540Z
+DTSTART;TZID=Asia/Yekaterinburg:20260903T101500
+DTEND;TZID=Asia/Yekaterinburg:20260903T114500
+SUMMARY:Компьютерные коммуникации и сети (Лаб.зан-я) [подгруппа 2]
+DESCRIPTION:Преподаватель: Мешков Владислав Витальевич\nАудитория: Учебная аудитория сетевых технологий "D-Link - Компьютерный класс" (0-214) УК М11\nГруппа: ИТмт-207
+LOCATION:Учебная аудитория сетевых технологий "D-Link - Компьютерный класс" (0-214) УК М11
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20260903-1200-3Dмоделированиевмедиаиндустрии-подгруппа 1@uspu
+DTSTAMP:20260902T155540Z
+DTSTART;TZID=Asia/Yekaterinburg:20260903T120000
+DTEND;TZID=Asia/Yekaterinburg:20260903T133000
+SUMMARY:3D-моделирование в медиаиндустрии (Лаб.зан-я) [подгруппа 1]
+DESCRIPTION:Преподаватель: Котова Ирина Анатольевна\nАудитория: Лаборатория "VR/AR" (0-104) УК М11\nГруппа: ИТмт-207
+LOCATION:Лаборатория "VR/AR" (0-104) УК М11
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20260903-1415-Компьютерныекоммуникацииисети-подгруппа 1@uspu
+DTSTAMP:20260902T155540Z
+DTSTART;TZID=Asia/Yekaterinburg:20260903T141500
+DTEND;TZID=Asia/Yekaterinburg:20260903T154500
+SUMMARY:Компьютерные коммуникации и сети (Лаб.зан-я) [подгруппа 1]
+DESCRIPTION:Преподаватель: Мешков Владислав Витальевич\nАудитория: Учебная аудитория сетевых технологий "D-Link - Компьютерный класс" (0-214) УК М11\nГруппа: ИТмт-207
+LOCATION:Учебная аудитория сетевых технологий "D-Link - Компьютерный класс" (0-214) УК М11
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20260904-0830-Аудиоивидеодизайн-подгруппа 1@uspu
+DTSTAMP:20260902T155540Z
+DTSTART;TZID=Asia/Yekaterinburg:20260904T083000
+DTEND;TZID=Asia/Yekaterinburg:20260904T100000
+SUMMARY:Аудио- и видеодизайн (Лаб.зан-я) [подгруппа 1]
+DESCRIPTION:Преподаватель: Стариков Дмитрий Александрович\nАудитория: Компьютерный класс 0-213 УК М11\nГруппа: ИТмт-207
+LOCATION:Компьютерный класс 0-213 УК М11
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20260904-1015-Аудиоивидеодизайн-подгруппа 1@uspu
+DTSTAMP:20260902T155540Z
+DTSTART;TZID=Asia/Yekaterinburg:20260904T101500
+DTEND;TZID=Asia/Yekaterinburg:20260904T114500
+SUMMARY:Аудио- и видеодизайн (Лаб.зан-я) [подгруппа 1]
+DESCRIPTION:Преподаватель: Стариков Дмитрий Александрович\nАудитория: Компьютерный класс 0-213 УК М11\nГруппа: ИТмт-207
+LOCATION:Компьютерный класс 0-213 УК М11
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20260904-1200-Аудиоивидеодизайн-подгруппа 2@uspu
+DTSTAMP:20260902T155540Z
+DTSTART;TZID=Asia/Yekaterinburg:20260904T120000
+DTEND;TZID=Asia/Yekaterinburg:20260904T133000
+SUMMARY:Аудио- и видеодизайн (Лаб.зан-я) [подгруппа 2]
+DESCRIPTION:Преподаватель: Стариков Дмитрий Александрович\nАудитория: Компьютерный класс 0-213 УК М11\nГруппа: ИТмт-207
+LOCATION:Компьютерный класс 0-213 УК М11
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20260904-1415-Аудиоивидеодизайн-подгруппа 2@uspu
+DTSTAMP:20260902T155540Z
+DTSTART;TZID=Asia/Yekaterinburg:20260904T141500
+DTEND;TZID=Asia/Yekaterinburg:20260904T154500
+SUMMARY:Аудио- и видеодизайн (Лаб.зан-я) [подгруппа 2]
+DESCRIPTION:Преподаватель: Стариков Дмитрий Александрович\nАудитория: Компьютерный класс 0-213 УК М11\nГруппа: ИТмт-207
+LOCATION:Компьютерный класс 0-213 УК М11
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20260905-0830-Прикладнаяфизическаякультура-подгруппа 1@uspu
+DTSTAMP:20260902T155540Z
+DTSTART;TZID=Asia/Yekaterinburg:20260905T083000
+DTEND;TZID=Asia/Yekaterinburg:20260905T100000
+SUMMARY:Прикладная физическая культура (Лаб.зан-я) [подгруппа 1]
+DESCRIPTION:Преподаватель: Карпов Николай Николаевич\nАудитория: Спортивный зал УК М11\nГруппа: ИТмт-207
+LOCATION:Спортивный зал УК М11
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20260905-1015-Режиссураwebимультимедиапродуктов-подгруппа 1@uspu
+DTSTAMP:20260902T155540Z
+DTSTART;TZID=Asia/Yekaterinburg:20260905T101500
+DTEND;TZID=Asia/Yekaterinburg:20260905T114500
+SUMMARY:Режиссура web и мультимедиа продуктов (Лаб.зан-я) [подгруппа 1]
+DESCRIPTION:Преподаватель: Котова Ирина Анатольевна\nАудитория: Лаборатория "VR/AR" (0-104) УК М11\nГруппа: ИТмт-207
+LOCATION:Лаборатория "VR/AR" (0-104) УК М11
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20260905-1015-Прикладнаяфизическаякультура-подгруппа 2@uspu
+DTSTAMP:20260902T155540Z
+DTSTART;TZID=Asia/Yekaterinburg:20260905T101500
+DTEND;TZID=Asia/Yekaterinburg:20260905T114500
+SUMMARY:Прикладная физическая культура (Лаб.зан-я) [подгруппа 2]
+DESCRIPTION:Преподаватель: Карпов Николай Николаевич\nАудитория: Спортивный зал УК М11\nГруппа: ИТмт-207
+LOCATION:Спортивный зал УК М11
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20260905-1230-Режиссураwebимультимедиапродуктов-подгруппа 2@uspu
+DTSTAMP:20260902T155540Z
+DTSTART;TZID=Asia/Yekaterinburg:20260905T123000
+DTEND;TZID=Asia/Yekaterinburg:20260905T140000
+SUMMARY:Режиссура web и мультимедиа продуктов (Лаб.зан-я) [подгруппа 2]
+DESCRIPTION:Преподаватель: Котова Ирина Анатольевна\nАудитория: Лаборатория "VR/AR" (0-104) УК М11\nГруппа: ИТмт-207
+LOCATION:Лаборатория "VR/AR" (0-104) УК М11
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20260908-1015-3Dмоделированиевмедиаиндустрии-подгруппа 2@uspu
+DTSTAMP:20260902T155540Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T101500
+DTEND;TZID=Asia/Yekaterinburg:20260908T114500
+SUMMARY:3D-моделирование в медиаиндустрии (Лаб.зан-я) [подгруппа 2]
+DESCRIPTION:Преподаватель: Котова Ирина Анатольевна\nАудитория: Лаборатория "VR/AR" (0-104) УК М11\nГруппа: ИТмт-207
+LOCATION:Лаборатория "VR/AR" (0-104) УК М11
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20260908-1200-Программнаяинженерия-подгруппа 2@uspu
+DTSTAMP:20260902T155540Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T120000
+DTEND;TZID=Asia/Yekaterinburg:20260908T133000
+SUMMARY:Программная инженерия (Лаб.зан-я) [подгруппа 2]
+DESCRIPTION:Преподаватель: Телепова Татьяна Петровна\nАудитория: Компьютерный класс 0-211 УК М11\nГруппа: ИТмт-207
+LOCATION:Компьютерный класс 0-211 УК М11
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20260908-1200-Программнаяинженерия-подгруппа 1@uspu
+DTSTAMP:20260902T155540Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T120000
+DTEND;TZID=Asia/Yekaterinburg:20260908T133000
+SUMMARY:Программная инженерия (Лаб.зан-я) [подгруппа 1]
+DESCRIPTION:Преподаватель: Власова Наталья Сергеевна\nАудитория: Компьютерный класс им. первого Президента РФ Б. Н. Ельцина (0-225) УК М11\nГруппа: ИТмт-207
+LOCATION:Компьютерный класс им. первого Президента РФ Б. Н. Ельцина (0-225) УК М11
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20260908-1415-Программнаяинженерия-подгруппа 2@uspu
+DTSTAMP:20260902T155540Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T141500
+DTEND;TZID=Asia/Yekaterinburg:20260908T154500
+SUMMARY:Программная инженерия (Лаб.зан-я) [подгруппа 2]
+DESCRIPTION:Преподаватель: Телепова Татьяна Петровна\nАудитория: Компьютерный класс 0-211 УК М11\nГруппа: ИТмт-207
+LOCATION:Компьютерный класс 0-211 УК М11
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20260908-1415-Программнаяинженерия-подгруппа 1@uspu
+DTSTAMP:20260902T155540Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T141500
+DTEND;TZID=Asia/Yekaterinburg:20260908T154500
+SUMMARY:Программная инженерия (Лаб.зан-я) [подгруппа 1]
+DESCRIPTION:Преподаватель: Власова Наталья Сергеевна\nАудитория: Компьютерный класс им. первого Президента РФ Б. Н. Ельцина (0-225) УК М11\nГруппа: ИТмт-207
+LOCATION:Компьютерный класс им. первого Президента РФ Б. Н. Ельцина (0-225) УК М11
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20260908-1600-Информационнаябезопасность-подгруппа 1@uspu
+DTSTAMP:20260902T155540Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T160000
+DTEND;TZID=Asia/Yekaterinburg:20260908T173000
+SUMMARY:Информационная безопасность (Лаб.зан-я) [подгруппа 1]
+DESCRIPTION:Преподаватель: Ченушкина Светлана Владимировна\nАудитория: Учебная аудитория сетевых технологий "D-Link - Компьютерный класс" (0-214) УК М11\nГруппа: ИТмт-207
+LOCATION:Учебная аудитория сетевых технологий "D-Link - Компьютерный класс" (0-214) УК М11
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20260908-1600-Информационнаябезопасность-подгруппа 2@uspu
+DTSTAMP:20260902T155540Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T160000
+DTEND;TZID=Asia/Yekaterinburg:20260908T173000
+SUMMARY:Информационная безопасность (Лаб.зан-я) [подгруппа 2]
+DESCRIPTION:Преподаватель: Ростовцева Тамара Михайловна\nАудитория: Компьютерный класс 0-217 УК М11\nГруппа: ИТмт-207
+LOCATION:Компьютерный класс 0-217 УК М11
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20260909-1200-Историянаукиитехники-подгруппа 2@uspu
+DTSTAMP:20260902T155540Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T120000
+DTEND;TZID=Asia/Yekaterinburg:20260909T133000
+SUMMARY:История науки и техники (Лаб.зан-я) [подгруппа 2]
+DESCRIPTION:Преподаватель: Захаровский Леонид Владимирович\nАудитория: Учебная аудитория 2-524 УК М11\nГруппа: ИТмт-207
+LOCATION:Учебная аудитория 2-524 УК М11
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20260909-1415-Компьютерныекоммуникацииисети-all@uspu
+DTSTAMP:20260902T155540Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T141500
+DTEND;TZID=Asia/Yekaterinburg:20260909T154500
+SUMMARY:Компьютерные коммуникации и сети (Лекции)
+DESCRIPTION:Преподаватель: Мешков Владислав Витальевич\nАудитория: Учебная аудитория им. Российского педагога К. Д. Ушинского (0-412) УК М11\nГруппа: ИТмт-207
+LOCATION:Учебная аудитория им. Российского педагога К. Д. Ушинского (0-412) УК М11
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20260909-1600-Историянаукиитехники-подгруппа 1@uspu
+DTSTAMP:20260902T155540Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T160000
+DTEND;TZID=Asia/Yekaterinburg:20260909T173000
+SUMMARY:История науки и техники (Лаб.зан-я) [подгруппа 1]
+DESCRIPTION:Преподаватель: Захаровский Леонид Владимирович\nАудитория: Учебная аудитория 2-525 УК М11\nГруппа: ИТмт-207
+LOCATION:Учебная аудитория 2-525 УК М11
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20260910-1200-Проектированиепользовательскихинтерфейсов-подгруппа 2@uspu
+DTSTAMP:20260902T155540Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T120000
+DTEND;TZID=Asia/Yekaterinburg:20260910T133000
+SUMMARY:Проектирование пользовательских интерфейсов (Лаб.зан-я) [подгруппа 2]
+DESCRIPTION:Преподаватель: Толстова Наталья Сергеевна\nАудитория: Компьютерный класс мехатроники и автоматики (0-218) УК М11\nГруппа: ИТмт-207
+LOCATION:Компьютерный класс мехатроники и автоматики (0-218) УК М11
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20260910-1415-Компьютерныекоммуникацииисети-подгруппа 2@uspu
+DTSTAMP:20260902T155540Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T141500
+DTEND;TZID=Asia/Yekaterinburg:20260910T154500
+SUMMARY:Компьютерные коммуникации и сети (Лаб.зан-я) [подгруппа 2]
+DESCRIPTION:Преподаватель: Мешков Владислав Витальевич\nАудитория: Учебная аудитория сетевых технологий "D-Link - Компьютерный класс" (0-214) УК М11\nГруппа: ИТмт-207
+LOCATION:Учебная аудитория сетевых технологий "D-Link - Компьютерный класс" (0-214) УК М11
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20260910-1415-Проектированиепользовательскихинтерфейсов-подгруппа 1@uspu
+DTSTAMP:20260902T155540Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T141500
+DTEND;TZID=Asia/Yekaterinburg:20260910T154500
+SUMMARY:Проектирование пользовательских интерфейсов (Лаб.зан-я) [подгруппа 1]
+DESCRIPTION:Преподаватель: Толстова Наталья Сергеевна\nАудитория: Компьютерный класс мехатроники и автоматики (0-218) УК М11\nГруппа: ИТмт-207
+LOCATION:Компьютерный класс мехатроники и автоматики (0-218) УК М11
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20260910-1600-Компьютерныекоммуникацииисети-подгруппа 1@uspu
+DTSTAMP:20260902T155540Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T160000
+DTEND;TZID=Asia/Yekaterinburg:20260910T173000
+SUMMARY:Компьютерные коммуникации и сети (Лаб.зан-я) [подгруппа 1]
+DESCRIPTION:Преподаватель: Мешков Владислав Витальевич\nАудитория: Учебная аудитория сетевых технологий "D-Link - Компьютерный класс" (0-214) УК М11\nГруппа: ИТмт-207
+LOCATION:Учебная аудитория сетевых технологий "D-Link - Компьютерный класс" (0-214) УК М11
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20260911-0830-Аудиоивидеодизайн-подгруппа 1@uspu
+DTSTAMP:20260902T155540Z
+DTSTART;TZID=Asia/Yekaterinburg:20260911T083000
+DTEND;TZID=Asia/Yekaterinburg:20260911T100000
+SUMMARY:Аудио- и видеодизайн (Лаб.зан-я) [подгруппа 1]
+DESCRIPTION:Преподаватель: Стариков Дмитрий Александрович\nАудитория: FabLab (0-113) УК М11\nГруппа: ИТмт-207
+LOCATION:FabLab (0-113) УК М11
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20260911-0830-3Dмоделированиевмедиаиндустрии-подгруппа 2@uspu
+DTSTAMP:20260902T155540Z
+DTSTART;TZID=Asia/Yekaterinburg:20260911T083000
+DTEND;TZID=Asia/Yekaterinburg:20260911T100000
+SUMMARY:3D-моделирование в медиаиндустрии (Лаб.зан-я) [подгруппа 2]
+DESCRIPTION:Преподаватель: Котова Ирина Анатольевна\nАудитория: Лаборатория "VR/AR" (0-104) УК М11\nГруппа: ИТмт-207
+LOCATION:Лаборатория "VR/AR" (0-104) УК М11
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20260911-1015-Аудиоивидеодизайн-подгруппа 2@uspu
+DTSTAMP:20260902T155540Z
+DTSTART;TZID=Asia/Yekaterinburg:20260911T101500
+DTEND;TZID=Asia/Yekaterinburg:20260911T114500
+SUMMARY:Аудио- и видеодизайн (Лаб.зан-я) [подгруппа 2]
+DESCRIPTION:Преподаватель: Стариков Дмитрий Александрович\nАудитория: FabLab (0-113) УК М11\nГруппа: ИТмт-207
+LOCATION:FabLab (0-113) УК М11
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20260911-1015-3Dмоделированиевмедиаиндустрии-подгруппа 1@uspu
+DTSTAMP:20260902T155540Z
+DTSTART;TZID=Asia/Yekaterinburg:20260911T101500
+DTEND;TZID=Asia/Yekaterinburg:20260911T114500
+SUMMARY:3D-моделирование в медиаиндустрии (Лаб.зан-я) [подгруппа 1]
+DESCRIPTION:Преподаватель: Котова Ирина Анатольевна\nАудитория: Лаборатория "VR/AR" (0-104) УК М11\nГруппа: ИТмт-207
+LOCATION:Лаборатория "VR/AR" (0-104) УК М11
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20260911-1200-3Dмоделированиевмедиаиндустрии-подгруппа 1@uspu
+DTSTAMP:20260902T155540Z
+DTSTART;TZID=Asia/Yekaterinburg:20260911T120000
+DTEND;TZID=Asia/Yekaterinburg:20260911T133000
+SUMMARY:3D-моделирование в медиаиндустрии (Лаб.зан-я) [подгруппа 1]
+DESCRIPTION:Преподаватель: Котова Ирина Анатольевна\nАудитория: Лаборатория "VR/AR" (0-104) УК М11\nГруппа: ИТмт-207
+LOCATION:Лаборатория "VR/AR" (0-104) УК М11
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20260912-0830-Прикладнаяфизическаякультура-подгруппа 1@uspu
+DTSTAMP:20260902T155540Z
+DTSTART;TZID=Asia/Yekaterinburg:20260912T083000
+DTEND;TZID=Asia/Yekaterinburg:20260912T100000
+SUMMARY:Прикладная физическая культура (Лаб.зан-я) [подгруппа 1]
+DESCRIPTION:Преподаватель: Карпов Николай Николаевич\nАудитория: Спортивный зал УК М11\nГруппа: ИТмт-207
+LOCATION:Спортивный зал УК М11
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20260912-1015-Режиссураwebимультимедиапродуктов-подгруппа 1@uspu
+DTSTAMP:20260902T155540Z
+DTSTART;TZID=Asia/Yekaterinburg:20260912T101500
+DTEND;TZID=Asia/Yekaterinburg:20260912T114500
+SUMMARY:Режиссура web и мультимедиа продуктов (Лаб.зан-я) [подгруппа 1]
+DESCRIPTION:Преподаватель: Котова Ирина Анатольевна\nАудитория: Лаборатория "VR/AR" (0-104) УК М11\nГруппа: ИТмт-207
+LOCATION:Лаборатория "VR/AR" (0-104) УК М11
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20260912-1015-Прикладнаяфизическаякультура-подгруппа 2@uspu
+DTSTAMP:20260902T155540Z
+DTSTART;TZID=Asia/Yekaterinburg:20260912T101500
+DTEND;TZID=Asia/Yekaterinburg:20260912T114500
+SUMMARY:Прикладная физическая культура (Лаб.зан-я) [подгруппа 2]
+DESCRIPTION:Преподаватель: Карпов Николай Николаевич\nАудитория: Спортивный зал УК М11\nГруппа: ИТмт-207
+LOCATION:Спортивный зал УК М11
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20260912-1230-Режиссураwebимультимедиапродуктов-подгруппа 2@uspu
+DTSTAMP:20260902T155540Z
+DTSTART;TZID=Asia/Yekaterinburg:20260912T123000
+DTEND;TZID=Asia/Yekaterinburg:20260912T140000
+SUMMARY:Режиссура web и мультимедиа продуктов (Лаб.зан-я) [подгруппа 2]
+DESCRIPTION:Преподаватель: Котова Ирина Анатольевна\nАудитория: Лаборатория "VR/AR" (0-104) УК М11\nГруппа: ИТмт-207
+LOCATION:Лаборатория "VR/AR" (0-104) УК М11
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20260915-1015-3Dмоделированиевмедиаиндустрии-подгруппа 2@uspu
+DTSTAMP:20260902T155540Z
+DTSTART;TZID=Asia/Yekaterinburg:20260915T101500
+DTEND;TZID=Asia/Yekaterinburg:20260915T114500
+SUMMARY:3D-моделирование в медиаиндустрии (Лаб.зан-я) [подгруппа 2]
+DESCRIPTION:Преподаватель: Котова Ирина Анатольевна\nАудитория: Лаборатория "VR/AR" (0-104) УК М11\nГруппа: ИТмт-207
+LOCATION:Лаборатория "VR/AR" (0-104) УК М11
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20260915-1200-3Dмоделированиевмедиаиндустрии-all@uspu
+DTSTAMP:20260902T155540Z
+DTSTART;TZID=Asia/Yekaterinburg:20260915T120000
+DTEND;TZID=Asia/Yekaterinburg:20260915T133000
+SUMMARY:3D-моделирование в медиаиндустрии (Лекции)
+DESCRIPTION:Преподаватель: Федулова Ксения Анатольевна\nАудитория: Учебная аудитория имени академика Г. М. Романцева (0-220) УК М11\nГруппа: ИТмт-207
+LOCATION:Учебная аудитория имени академика Г. М. Романцева (0-220) УК М11
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20260915-1415-Компьютерныекоммуникацииисети-подгруппа 1@uspu
+DTSTAMP:20260902T155540Z
+DTSTART;TZID=Asia/Yekaterinburg:20260915T141500
+DTEND;TZID=Asia/Yekaterinburg:20260915T154500
+SUMMARY:Компьютерные коммуникации и сети (Лаб.зан-я) [подгруппа 1]
+DESCRIPTION:Преподаватель: Мешков Владислав Витальевич\nАудитория: Учебная аудитория сетевых технологий "D-Link - Компьютерный класс" (0-214) УК М11\nГруппа: ИТмт-207
+LOCATION:Учебная аудитория сетевых технологий "D-Link - Компьютерный класс" (0-214) УК М11
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20260915-1600-Историянаукиитехники-подгруппа 1@uspu
+DTSTAMP:20260902T155540Z
+DTSTART;TZID=Asia/Yekaterinburg:20260915T160000
+DTEND;TZID=Asia/Yekaterinburg:20260915T173000
+SUMMARY:История науки и техники (Лаб.зан-я) [подгруппа 1]
+DESCRIPTION:Преподаватель: Захаровский Леонид Владимирович\nАудитория: Автоматизированный учебный центр (0-114) УК М11\nГруппа: ИТмт-207
+LOCATION:Автоматизированный учебный центр (0-114) УК М11
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20260916-1015-Информационнаябезопасность-all@uspu
+DTSTAMP:20260902T155540Z
+DTSTART;TZID=Asia/Yekaterinburg:20260916T101500
+DTEND;TZID=Asia/Yekaterinburg:20260916T114500
+SUMMARY:Информационная безопасность (Лекции)
+DESCRIPTION:Преподаватель: Ченушкина Светлана Владимировна\nАудитория: Учебная аудитория 0-414 УК М11\nГруппа: ИТмт-207
+LOCATION:Учебная аудитория 0-414 УК М11
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20260916-1200-Информационнаябезопасность-подгруппа 2@uspu
+DTSTAMP:20260902T155540Z
+DTSTART;TZID=Asia/Yekaterinburg:20260916T120000
+DTEND;TZID=Asia/Yekaterinburg:20260916T133000
+SUMMARY:Информационная безопасность (Лаб.зан-я) [подгруппа 2]
+DESCRIPTION:Преподаватель: Ростовцева Тамара Михайловна\nАудитория: Компьютерный класс 0-217 УК М11\nГруппа: ИТмт-207
+LOCATION:Компьютерный класс 0-217 УК М11
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20260916-1200-Информационнаябезопасность-подгруппа 1@uspu
+DTSTAMP:20260902T155540Z
+DTSTART;TZID=Asia/Yekaterinburg:20260916T120000
+DTEND;TZID=Asia/Yekaterinburg:20260916T133000
+SUMMARY:Информационная безопасность (Лаб.зан-я) [подгруппа 1]
+DESCRIPTION:Преподаватель: Ченушкина Светлана Владимировна\nАудитория: Учебная аудитория сетевых технологий "D-Link - Компьютерный класс" (0-214) УК М11\nГруппа: ИТмт-207
+LOCATION:Учебная аудитория сетевых технологий "D-Link - Компьютерный класс" (0-214) УК М11
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20260916-1415-Историянаукиитехники-подгруппа 2@uspu
+DTSTAMP:20260902T155540Z
+DTSTART;TZID=Asia/Yekaterinburg:20260916T141500
+DTEND;TZID=Asia/Yekaterinburg:20260916T154500
+SUMMARY:История науки и техники (Лаб.зан-я) [подгруппа 2]
+DESCRIPTION:Преподаватель: Захаровский Леонид Владимирович\nАудитория: Автоматизированный учебный центр (0-114) УК М11\nГруппа: ИТмт-207
+LOCATION:Автоматизированный учебный центр (0-114) УК М11
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20260917-0830-Программнаяинженерия-all@uspu
+DTSTAMP:20260902T155540Z
+DTSTART;TZID=Asia/Yekaterinburg:20260917T083000
+DTEND;TZID=Asia/Yekaterinburg:20260917T100000
+SUMMARY:Программная инженерия (Лекции)
+DESCRIPTION:Преподаватель: Толстова Наталья Сергеевна\nАудитория: Учебная аудитория 0-414 УК М11\nГруппа: ИТмт-207
+LOCATION:Учебная аудитория 0-414 УК М11
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20260917-1015-Компьютерныекоммуникацииисети-подгруппа 2@uspu
+DTSTAMP:20260902T155540Z
+DTSTART;TZID=Asia/Yekaterinburg:20260917T101500
+DTEND;TZID=Asia/Yekaterinburg:20260917T114500
+SUMMARY:Компьютерные коммуникации и сети (Лаб.зан-я) [подгруппа 2]
+DESCRIPTION:Преподаватель: Мешков Владислав Витальевич\nАудитория: Учебная аудитория сетевых технологий "D-Link - Компьютерный класс" (0-214) УК М11\nГруппа: ИТмт-207
+LOCATION:Учебная аудитория сетевых технологий "D-Link - Компьютерный класс" (0-214) УК М11
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20260917-1015-Проектированиепользовательскихинтерфейсов-подгруппа 1@uspu
+DTSTAMP:20260902T155540Z
+DTSTART;TZID=Asia/Yekaterinburg:20260917T101500
+DTEND;TZID=Asia/Yekaterinburg:20260917T114500
+SUMMARY:Проектирование пользовательских интерфейсов (Лаб.зан-я) [подгруппа 1]
+DESCRIPTION:Преподаватель: Толстова Наталья Сергеевна\nАудитория: Компьютерный класс мехатроники и автоматики (0-218) УК М11\nГруппа: ИТмт-207
+LOCATION:Компьютерный класс мехатроники и автоматики (0-218) УК М11
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20260917-1200-3Dмоделированиевмедиаиндустрии-подгруппа 1@uspu
+DTSTAMP:20260902T155540Z
+DTSTART;TZID=Asia/Yekaterinburg:20260917T120000
+DTEND;TZID=Asia/Yekaterinburg:20260917T133000
+SUMMARY:3D-моделирование в медиаиндустрии (Лаб.зан-я) [подгруппа 1]
+DESCRIPTION:Преподаватель: Котова Ирина Анатольевна\nАудитория: Лаборатория "VR/AR" (0-104) УК М11\nГруппа: ИТмт-207
+LOCATION:Лаборатория "VR/AR" (0-104) УК М11
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20260917-1200-Проектированиепользовательскихинтерфейсов-подгруппа 2@uspu
+DTSTAMP:20260902T155540Z
+DTSTART;TZID=Asia/Yekaterinburg:20260917T120000
+DTEND;TZID=Asia/Yekaterinburg:20260917T133000
+SUMMARY:Проектирование пользовательских интерфейсов (Лаб.зан-я) [подгруппа 2]
+DESCRIPTION:Преподаватель: Толстова Наталья Сергеевна\nАудитория: Компьютерный класс мехатроники и автоматики (0-218) УК М11\nГруппа: ИТмт-207
+LOCATION:Компьютерный класс мехатроники и автоматики (0-218) УК М11
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20260918-0830-Аудиоивидеодизайн-подгруппа 1@uspu
+DTSTAMP:20260902T155540Z
+DTSTART;TZID=Asia/Yekaterinburg:20260918T083000
+DTEND;TZID=Asia/Yekaterinburg:20260918T100000
+SUMMARY:Аудио- и видеодизайн (Лаб.зан-я) [подгруппа 1]
+DESCRIPTION:Преподаватель: Стариков Дмитрий Александрович\nАудитория: Компьютерный класс 0-213 УК М11\nГруппа: ИТмт-207
+LOCATION:Компьютерный класс 0-213 УК М11
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20260918-1015-Аудиоивидеодизайн-подгруппа 1@uspu
+DTSTAMP:20260902T155540Z
+DTSTART;TZID=Asia/Yekaterinburg:20260918T101500
+DTEND;TZID=Asia/Yekaterinburg:20260918T114500
+SUMMARY:Аудио- и видеодизайн (Лаб.зан-я) [подгруппа 1]
+DESCRIPTION:Преподаватель: Стариков Дмитрий Александрович\nАудитория: Компьютерный класс 0-213 УК М11\nГруппа: ИТмт-207
+LOCATION:Компьютерный класс 0-213 УК М11
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20260918-1200-Аудиоивидеодизайн-подгруппа 2@uspu
+DTSTAMP:20260902T155540Z
+DTSTART;TZID=Asia/Yekaterinburg:20260918T120000
+DTEND;TZID=Asia/Yekaterinburg:20260918T133000
+SUMMARY:Аудио- и видеодизайн (Лаб.зан-я) [подгруппа 2]
+DESCRIPTION:Преподаватель: Стариков Дмитрий Александрович\nАудитория: Компьютерный класс 0-213 УК М11\nГруппа: ИТмт-207
+LOCATION:Компьютерный класс 0-213 УК М11
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20260918-1415-Аудиоивидеодизайн-подгруппа 2@uspu
+DTSTAMP:20260902T155540Z
+DTSTART;TZID=Asia/Yekaterinburg:20260918T141500
+DTEND;TZID=Asia/Yekaterinburg:20260918T154500
+SUMMARY:Аудио- и видеодизайн (Лаб.зан-я) [подгруппа 2]
+DESCRIPTION:Преподаватель: Стариков Дмитрий Александрович\nАудитория: Компьютерный класс 0-213 УК М11\nГруппа: ИТмт-207
+LOCATION:Компьютерный класс 0-213 УК М11
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20260919-0830-Прикладнаяфизическаякультура-подгруппа 1@uspu
+DTSTAMP:20260902T155540Z
+DTSTART;TZID=Asia/Yekaterinburg:20260919T083000
+DTEND;TZID=Asia/Yekaterinburg:20260919T100000
+SUMMARY:Прикладная физическая культура (Лаб.зан-я) [подгруппа 1]
+DESCRIPTION:Преподаватель: Карпов Николай Николаевич\nАудитория: Спортивный зал УК М11\nГруппа: ИТмт-207
+LOCATION:Спортивный зал УК М11
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20260919-1015-Режиссураwebимультимедиапродуктов-подгруппа 1@uspu
+DTSTAMP:20260902T155540Z
+DTSTART;TZID=Asia/Yekaterinburg:20260919T101500
+DTEND;TZID=Asia/Yekaterinburg:20260919T114500
+SUMMARY:Режиссура web и мультимедиа продуктов (Лаб.зан-я) [подгруппа 1]
+DESCRIPTION:Преподаватель: Котова Ирина Анатольевна\nАудитория: Лаборатория "VR/AR" (0-104) УК М11\nГруппа: ИТмт-207
+LOCATION:Лаборатория "VR/AR" (0-104) УК М11
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20260919-1015-Прикладнаяфизическаякультура-подгруппа 2@uspu
+DTSTAMP:20260902T155540Z
+DTSTART;TZID=Asia/Yekaterinburg:20260919T101500
+DTEND;TZID=Asia/Yekaterinburg:20260919T114500
+SUMMARY:Прикладная физическая культура (Лаб.зан-я) [подгруппа 2]
+DESCRIPTION:Преподаватель: Карпов Николай Николаевич\nАудитория: Спортивный зал УК М11\nГруппа: ИТмт-207
+LOCATION:Спортивный зал УК М11
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20260919-1230-Режиссураwebимультимедиапродуктов-подгруппа 2@uspu
+DTSTAMP:20260902T155540Z
+DTSTART;TZID=Asia/Yekaterinburg:20260919T123000
+DTEND;TZID=Asia/Yekaterinburg:20260919T140000
+SUMMARY:Режиссура web и мультимедиа продуктов (Лаб.зан-я) [подгруппа 2]
+DESCRIPTION:Преподаватель: Котова Ирина Анатольевна\nАудитория: Лаборатория "VR/AR" (0-104) УК М11\nГруппа: ИТмт-207
+LOCATION:Лаборатория "VR/AR" (0-104) УК М11
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20260922-1015-3Dмоделированиевмедиаиндустрии-подгруппа 2@uspu
+DTSTAMP:20260902T155540Z
+DTSTART;TZID=Asia/Yekaterinburg:20260922T101500
+DTEND;TZID=Asia/Yekaterinburg:20260922T114500
+SUMMARY:3D-моделирование в медиаиндустрии (Лаб.зан-я) [подгруппа 2]
+DESCRIPTION:Преподаватель: Котова Ирина Анатольевна\nАудитория: Лаборатория "VR/AR" (0-104) УК М11\nГруппа: ИТмт-207
+LOCATION:Лаборатория "VR/AR" (0-104) УК М11
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20260922-1200-Программнаяинженерия-подгруппа 2@uspu
+DTSTAMP:20260902T155540Z
+DTSTART;TZID=Asia/Yekaterinburg:20260922T120000
+DTEND;TZID=Asia/Yekaterinburg:20260922T133000
+SUMMARY:Программная инженерия (Лаб.зан-я) [подгруппа 2]
+DESCRIPTION:Преподаватель: Телепова Татьяна Петровна\nАудитория: Компьютерный класс 0-211 УК М11\nГруппа: ИТмт-207
+LOCATION:Компьютерный класс 0-211 УК М11
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20260922-1200-Программнаяинженерия-подгруппа 1@uspu
+DTSTAMP:20260902T155540Z
+DTSTART;TZID=Asia/Yekaterinburg:20260922T120000
+DTEND;TZID=Asia/Yekaterinburg:20260922T133000
+SUMMARY:Программная инженерия (Лаб.зан-я) [подгруппа 1]
+DESCRIPTION:Преподаватель: Власова Наталья Сергеевна\nАудитория: Компьютерный класс им. первого Президента РФ Б. Н. Ельцина (0-225) УК М11\nГруппа: ИТмт-207
+LOCATION:Компьютерный класс им. первого Президента РФ Б. Н. Ельцина (0-225) УК М11
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20260922-1415-Программнаяинженерия-подгруппа 1@uspu
+DTSTAMP:20260902T155540Z
+DTSTART;TZID=Asia/Yekaterinburg:20260922T141500
+DTEND;TZID=Asia/Yekaterinburg:20260922T154500
+SUMMARY:Программная инженерия (Лаб.зан-я) [подгруппа 1]
+DESCRIPTION:Преподаватель: Власова Наталья Сергеевна\nАудитория: Компьютерный класс им. первого Президента РФ Б. Н. Ельцина (0-225) УК М11\nГруппа: ИТмт-207
+LOCATION:Компьютерный класс им. первого Президента РФ Б. Н. Ельцина (0-225) УК М11
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20260922-1600-Информационнаябезопасность-подгруппа 1@uspu
+DTSTAMP:20260902T155540Z
+DTSTART;TZID=Asia/Yekaterinburg:20260922T160000
+DTEND;TZID=Asia/Yekaterinburg:20260922T173000
+SUMMARY:Информационная безопасность (Лаб.зан-я) [подгруппа 1]
+DESCRIPTION:Преподаватель: Ченушкина Светлана Владимировна\nАудитория: Учебная аудитория сетевых технологий "D-Link - Компьютерный класс" (0-214) УК М11\nГруппа: ИТмт-207
+LOCATION:Учебная аудитория сетевых технологий "D-Link - Компьютерный класс" (0-214) УК М11
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20260922-1600-Информационнаябезопасность-подгруппа 2@uspu
+DTSTAMP:20260902T155540Z
+DTSTART;TZID=Asia/Yekaterinburg:20260922T160000
+DTEND;TZID=Asia/Yekaterinburg:20260922T173000
+SUMMARY:Информационная безопасность (Лаб.зан-я) [подгруппа 2]
+DESCRIPTION:Преподаватель: Ростовцева Тамара Михайловна\nАудитория: Компьютерный класс 0-217 УК М11\nГруппа: ИТмт-207
+LOCATION:Компьютерный класс 0-217 УК М11
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20260923-1200-Историянаукиитехники-подгруппа 2@uspu
+DTSTAMP:20260902T155540Z
+DTSTART;TZID=Asia/Yekaterinburg:20260923T120000
+DTEND;TZID=Asia/Yekaterinburg:20260923T133000
+SUMMARY:История науки и техники (Лаб.зан-я) [подгруппа 2]
+DESCRIPTION:Преподаватель: Захаровский Леонид Владимирович\nАудитория: Учебная аудитория 2-524 УК М11\nГруппа: ИТмт-207
+LOCATION:Учебная аудитория 2-524 УК М11
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20260923-1415-Компьютерныекоммуникацииисети-all@uspu
+DTSTAMP:20260902T155540Z
+DTSTART;TZID=Asia/Yekaterinburg:20260923T141500
+DTEND;TZID=Asia/Yekaterinburg:20260923T154500
+SUMMARY:Компьютерные коммуникации и сети (Лекции)
+DESCRIPTION:Преподаватель: Мешков Владислав Витальевич\nАудитория: Учебная аудитория им. Российского педагога К. Д. Ушинского (0-412) УК М11\nГруппа: ИТмт-207
+LOCATION:Учебная аудитория им. Российского педагога К. Д. Ушинского (0-412) УК М11
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20260923-1600-Историянаукиитехники-подгруппа 1@uspu
+DTSTAMP:20260902T155540Z
+DTSTART;TZID=Asia/Yekaterinburg:20260923T160000
+DTEND;TZID=Asia/Yekaterinburg:20260923T173000
+SUMMARY:История науки и техники (Лаб.зан-я) [подгруппа 1]
+DESCRIPTION:Преподаватель: Захаровский Леонид Владимирович\nАудитория: Учебная аудитория 2-525 УК М11\nГруппа: ИТмт-207
+LOCATION:Учебная аудитория 2-525 УК М11
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20260924-1200-Проектированиепользовательскихинтерфейсов-подгруппа 2@uspu
+DTSTAMP:20260902T155540Z
+DTSTART;TZID=Asia/Yekaterinburg:20260924T120000
+DTEND;TZID=Asia/Yekaterinburg:20260924T133000
+SUMMARY:Проектирование пользовательских интерфейсов (Лаб.зан-я) [подгруппа 2]
+DESCRIPTION:Преподаватель: Толстова Наталья Сергеевна\nАудитория: Компьютерный класс мехатроники и автоматики (0-218) УК М11\nГруппа: ИТмт-207
+LOCATION:Компьютерный класс мехатроники и автоматики (0-218) УК М11
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20260924-1415-Компьютерныекоммуникацииисети-подгруппа 2@uspu
+DTSTAMP:20260902T155540Z
+DTSTART;TZID=Asia/Yekaterinburg:20260924T141500
+DTEND;TZID=Asia/Yekaterinburg:20260924T154500
+SUMMARY:Компьютерные коммуникации и сети (Лаб.зан-я) [подгруппа 2]
+DESCRIPTION:Преподаватель: Мешков Владислав Витальевич\nАудитория: Учебная аудитория сетевых технологий "D-Link - Компьютерный класс" (0-214) УК М11\nГруппа: ИТмт-207
+LOCATION:Учебная аудитория сетевых технологий "D-Link - Компьютерный класс" (0-214) УК М11
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20260924-1415-Проектированиепользовательскихинтерфейсов-подгруппа 1@uspu
+DTSTAMP:20260902T155540Z
+DTSTART;TZID=Asia/Yekaterinburg:20260924T141500
+DTEND;TZID=Asia/Yekaterinburg:20260924T154500
+SUMMARY:Проектирование пользовательских интерфейсов (Лаб.зан-я) [подгруппа 1]
+DESCRIPTION:Преподаватель: Толстова Наталья Сергеевна\nАудитория: Компьютерный класс мехатроники и автоматики (0-218) УК М11\nГруппа: ИТмт-207
+LOCATION:Компьютерный класс мехатроники и автоматики (0-218) УК М11
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20260924-1600-Компьютерныекоммуникацииисети-подгруппа 1@uspu
+DTSTAMP:20260902T155540Z
+DTSTART;TZID=Asia/Yekaterinburg:20260924T160000
+DTEND;TZID=Asia/Yekaterinburg:20260924T173000
+SUMMARY:Компьютерные коммуникации и сети (Лаб.зан-я) [подгруппа 1]
+DESCRIPTION:Преподаватель: Мешков Владислав Витальевич\nАудитория: Учебная аудитория сетевых технологий "D-Link - Компьютерный класс" (0-214) УК М11\nГруппа: ИТмт-207
+LOCATION:Учебная аудитория сетевых технологий "D-Link - Компьютерный класс" (0-214) УК М11
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20260925-0830-Аудиоивидеодизайн-подгруппа 1@uspu
+DTSTAMP:20260902T155540Z
+DTSTART;TZID=Asia/Yekaterinburg:20260925T083000
+DTEND;TZID=Asia/Yekaterinburg:20260925T100000
+SUMMARY:Аудио- и видеодизайн (Лаб.зан-я) [подгруппа 1]
+DESCRIPTION:Преподаватель: Стариков Дмитрий Александрович\nАудитория: FabLab (0-113) УК М11\nГруппа: ИТмт-207
+LOCATION:FabLab (0-113) УК М11
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20260925-0830-3Dмоделированиевмедиаиндустрии-подгруппа 2@uspu
+DTSTAMP:20260902T155540Z
+DTSTART;TZID=Asia/Yekaterinburg:20260925T083000
+DTEND;TZID=Asia/Yekaterinburg:20260925T100000
+SUMMARY:3D-моделирование в медиаиндустрии (Лаб.зан-я) [подгруппа 2]
+DESCRIPTION:Преподаватель: Котова Ирина Анатольевна\nАудитория: Лаборатория "VR/AR" (0-104) УК М11\nГруппа: ИТмт-207
+LOCATION:Лаборатория "VR/AR" (0-104) УК М11
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20260925-1015-Аудиоивидеодизайн-подгруппа 2@uspu
+DTSTAMP:20260902T155540Z
+DTSTART;TZID=Asia/Yekaterinburg:20260925T101500
+DTEND;TZID=Asia/Yekaterinburg:20260925T114500
+SUMMARY:Аудио- и видеодизайн (Лаб.зан-я) [подгруппа 2]
+DESCRIPTION:Преподаватель: Стариков Дмитрий Александрович\nАудитория: FabLab (0-113) УК М11\nГруппа: ИТмт-207
+LOCATION:FabLab (0-113) УК М11
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20260925-1015-3Dмоделированиевмедиаиндустрии-подгруппа 1@uspu
+DTSTAMP:20260902T155540Z
+DTSTART;TZID=Asia/Yekaterinburg:20260925T101500
+DTEND;TZID=Asia/Yekaterinburg:20260925T114500
+SUMMARY:3D-моделирование в медиаиндустрии (Лаб.зан-я) [подгруппа 1]
+DESCRIPTION:Преподаватель: Котова Ирина Анатольевна\nАудитория: Лаборатория "VR/AR" (0-104) УК М11\nГруппа: ИТмт-207
+LOCATION:Лаборатория "VR/AR" (0-104) УК М11
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20260925-1200-3Dмоделированиевмедиаиндустрии-подгруппа 1@uspu
+DTSTAMP:20260902T155540Z
+DTSTART;TZID=Asia/Yekaterinburg:20260925T120000
+DTEND;TZID=Asia/Yekaterinburg:20260925T133000
+SUMMARY:3D-моделирование в медиаиндустрии (Лаб.зан-я) [подгруппа 1]
+DESCRIPTION:Преподаватель: Котова Ирина Анатольевна\nАудитория: Лаборатория "VR/AR" (0-104) УК М11\nГруппа: ИТмт-207
+LOCATION:Лаборатория "VR/AR" (0-104) УК М11
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20260926-0830-Прикладнаяфизическаякультура-подгруппа 1@uspu
+DTSTAMP:20260902T155540Z
+DTSTART;TZID=Asia/Yekaterinburg:20260926T083000
+DTEND;TZID=Asia/Yekaterinburg:20260926T100000
+SUMMARY:Прикладная физическая культура (Лаб.зан-я) [подгруппа 1]
+DESCRIPTION:Преподаватель: Карпов Николай Николаевич\nАудитория: Спортивный зал УК М11\nГруппа: ИТмт-207
+LOCATION:Спортивный зал УК М11
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20260926-1015-Режиссураwebимультимедиапродуктов-подгруппа 1@uspu
+DTSTAMP:20260902T155540Z
+DTSTART;TZID=Asia/Yekaterinburg:20260926T101500
+DTEND;TZID=Asia/Yekaterinburg:20260926T114500
+SUMMARY:Режиссура web и мультимедиа продуктов (Лаб.зан-я) [подгруппа 1]
+DESCRIPTION:Преподаватель: Котова Ирина Анатольевна\nАудитория: Лаборатория "VR/AR" (0-104) УК М11\nГруппа: ИТмт-207
+LOCATION:Лаборатория "VR/AR" (0-104) УК М11
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20260926-1015-Прикладнаяфизическаякультура-подгруппа 2@uspu
+DTSTAMP:20260902T155540Z
+DTSTART;TZID=Asia/Yekaterinburg:20260926T101500
+DTEND;TZID=Asia/Yekaterinburg:20260926T114500
+SUMMARY:Прикладная физическая культура (Лаб.зан-я) [подгруппа 2]
+DESCRIPTION:Преподаватель: Карпов Николай Николаевич\nАудитория: Спортивный зал УК М11\nГруппа: ИТмт-207
+LOCATION:Спортивный зал УК М11
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20260926-1230-Режиссураwebимультимедиапродуктов-подгруппа 2@uspu
+DTSTAMP:20260902T155540Z
+DTSTART;TZID=Asia/Yekaterinburg:20260926T123000
+DTEND;TZID=Asia/Yekaterinburg:20260926T140000
+SUMMARY:Режиссура web и мультимедиа продуктов (Лаб.зан-я) [подгруппа 2]
+DESCRIPTION:Преподаватель: Котова Ирина Анатольевна\nАудитория: Лаборатория "VR/AR" (0-104) УК М11\nГруппа: ИТмт-207
+LOCATION:Лаборатория "VR/AR" (0-104) УК М11
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
